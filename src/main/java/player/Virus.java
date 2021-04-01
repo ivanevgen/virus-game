@@ -6,6 +6,7 @@ package player;
  *
  */
 public interface Virus {
+
     /**
      *
      * @param carrier самый первый источник, может быть любым устройством
